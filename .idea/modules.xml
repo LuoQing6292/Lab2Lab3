@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Idea/WEB-INF/WEB-INF.iml" filepath="D:/Idea/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://D:/Idea/WEB-INF/lib/lib.iml" filepath="D:/Idea/WEB-INF/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
